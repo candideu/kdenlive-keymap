@@ -1,0 +1,87 @@
+group: kdenlive
+process: kdenlive
+
+# Reference: https://userbase.kde.org/Kdenlive/Manual/Useful_Information/Shortcuts
+
+shortcuts:
+  # defaults
+  - name: Cut Clip
+    keys: 
+      - Shift+r
+  - name: Play
+    keys:
+      - Space
+  - name: Play zone
+    keys:
+      - Ctrl+Space
+  - name: Render
+    keys:
+      - Ctrl+Enter
+  - name: Switch Monitor
+    keys:
+      - t
+  - name: Forward
+    keys:
+      - l 	
+  - name: Rewind
+    keys:
+      - j
+  - name: Forward 1 frame
+    keys:
+      - Right arrow
+  - name: Rewind 1 frame
+    keys:
+      - Left arrow
+  - name: Forward 1 second
+    keys:
+      - Shift+Right arrow
+  - name: Rewind 1 second
+    keys:
+      - Shift+Left arrow
+  - name: Toggle Full Screen Mode
+    keys:
+      - Ctrl+Shift+f
+  - name: Go to Clip End
+    keys:
+      - End
+  - name: Go to Clip Start
+    keys:
+      - Home
+  - name: Go to Next Snap Point
+    keys:
+      - Alt+Right arrow
+  - name: Go to Previous Snap Point
+    keys:
+      - Alt+Left arrow
+  - name: Go to Project End
+    keys:
+      -  Ctrl+End	
+  - name: Go to Project Start
+    keys:
+      - Ctrl+Home
+  - name: Go to Zone End
+    keys:
+      - Shift+o
+  - name: Go to Zone Start
+    keys:
+      - Shift+i
+  - name: Group Clips
+    keys:
+      - Ctrl+g
+  - name: Ungroup Clips
+    keys:
+      - Ctrl + Shift + G
+  - name: Set Zone In
+    keys:
+      - i
+  - name: Set Zone Out
+    keys:
+      - o
+  - name: Ripple Delete
+    keys:
+      - Ctrl+x
+
+  # not in kde userbase
+  - name: Open Project Settings
+    keys:
+      - Ctrl+n
