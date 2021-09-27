@@ -3,4 +3,4 @@ A [Kdenlive](www.kdenlive.org) Keymap for [bfritscher's fork of Carnac](https://
 
 Download the kdenlive.yml file and place it in the keymaps folder:
 
-`Carnac fork Release.v3.1-beta\Release\Keymaps`
+`Release.v3.1-beta\Release\Keymaps`
