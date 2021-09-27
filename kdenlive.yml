@@ -8,13 +8,13 @@ shortcuts:
   - name: Cut Clip
     keys: 
       - Shift+r
-  - name: Play
+  - name: Play/Pause
     keys:
       - Space
   - name: Play zone
     keys:
       - Ctrl+Space
-  - name: Render
+  - name: Render/Export
     keys:
       - Ctrl+Enter
   - name: Switch Monitor
@@ -85,3 +85,68 @@ shortcuts:
   - name: Open Project Settings
     keys:
       - Ctrl+n
+  - name: Spacer Tool
+    keys:
+      - m
+  - name: Selection Tool
+    keys:
+      - s
+  - name: Razor Tool
+    keys:
+      - x
+  - name: Insert Clip
+    keys:
+      - v
+  - name: Overwrite Clip
+    keys:
+      - b
+  - name: Lift
+    keys:
+      - z
+  - name: Extract/Ripple Delete
+    keys:
+      - Shift+x
+  - name: Select clip at playhead
+    keys:
+      - Alt++
+  - name: Add subtitle
+    keys:
+      - Shift+s
+  - name: Align playhead to mouse position
+    keys:
+      - P
+  - name: Zoom In
+    keys:
+      - Ctrl++
+  - name: Zoom In
+    keys:
+      - Ctrl+=
+  - name: Zoom Out
+    keys:
+      - Ctrl+-
+  - name: Save
+    keys:
+      - Ctrl+s
+  - name: Save As
+    keys:
+      - Ctrl+Shift+s
+
+  # mouse keys
+  - name: 
+    keys:
+      - LButton
+  - name: 
+    keys:
+      - MButton
+  - name: 
+    keys:
+      - RButton
+  - name: 
+    keys:
+      - XButton1
+  - name: 
+    keys:
+      - XButton2
+  - name: 
+    keys:
+      - Shift
